@@ -37,7 +37,7 @@ Runs in Windows IIS server with ASP enabled.
 
 ### Installing
 
-Copy this calculate.asp and imgs/ folder in a virtual directory...
+Copy this calculate.asp, ca/ and imgs/ folders in a virtual directory...
 
 ### Executing
 
@@ -54,6 +54,7 @@ This is a very basic piece that I modify in my day to day.
 ## Version History
 
 Each implementation has its own history.
+Now a second Lang as example (multiLang commit)
 
 ## License
 

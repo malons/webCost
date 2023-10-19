@@ -21,7 +21,7 @@ It gives you an idea of cost and related mode.
 
 </td><td>
 
-![calcul](imgs/calculate.gif)
+![calcul](imgs/sample.png)
 
 </td></tr></table>
 
